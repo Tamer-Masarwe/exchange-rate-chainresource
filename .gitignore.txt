@@ -1,0 +1,11 @@
+# .gitignore
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.log
+*.cache
+exchangeRates.json
+exchangeRates.json.meta
+
